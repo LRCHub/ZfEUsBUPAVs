@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "AMAZE ME",
+  "base_artist": "INI",
+  "createdAt": "2026-02-12T15:29:29.548923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amaze Me",
+      "artist": "No Angels",
+      "has_synced": true,
+      "path": "select/01_Amaze_Me_No_Angels.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Ceases to Amaze Me",
+      "artist": "Split Enz",
+      "has_synced": true,
+      "path": "select/02_Never_Ceases_to_Amaze_Me_Split_Enz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Still Amaze Me",
+      "artist": "Audio Adrenaline",
+      "has_synced": true,
+      "path": "select/03_You_Still_Amaze_Me_Audio_Adrenaline.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Amaze Me",
+      "artist": "Margaret Glaspy",
+      "has_synced": true,
+      "path": "select/04_You_Amaze_Me_Margaret_Glaspy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Cease To Amaze Me",
+      "artist": "Three Crosses",
+      "has_synced": true,
+      "path": "select/05_Never_Cease_To_Amaze_Me_Three_Crosses.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Never Cease To Amaze Me",
+      "artist": "Aaron Keyes",
+      "has_synced": true,
+      "path": "select/06_You_Never_Cease_To_Amaze_Me_Aaron_Keyes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Amaze Me",
+      "artist": "Gaither Vocal Band",
+      "has_synced": true,
+      "path": "select/07_You_Amaze_Me_Gaither_Vocal_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Ceases to Amaze Me",
+      "artist": "Split Enz, Tim Finn",
+      "has_synced": true,
+      "path": "select/08_Never_Ceases_to_Amaze_Me_Split_Enz,_Tim_Finn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amaze Me",
+      "artist": "No Angels",
+      "has_synced": false,
+      "path": "select/09_Amaze_Me_No_Angels.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Amaze Me",
+      "artist": "Vicki Yohe",
+      "has_synced": true,
+      "path": "select/10_You_Amaze_Me_Vicki_Yohe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Amaze Me",
+      "artist": "Girlyman",
+      "has_synced": false,
+      "path": "select/11_Amaze_Me_Girlyman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Amaze Me",
+      "artist": "Klaas",
+      "has_synced": true,
+      "path": "select/12_Amaze_Me_Klaas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Amaze Me",
+      "artist": "GMS Live",
+      "has_synced": false,
+      "path": "select/13_You_Amaze_Me_GMS_Live.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "AMAZE ME",
+      "artist": "INI",
+      "has_synced": true,
+      "path": "select/14_AMAZE_ME_INI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Still Amaze Me",
+      "artist": "Rebecca St. James",
+      "has_synced": true,
+      "path": "select/15_You_Still_Amaze_Me_Rebecca_St._James.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Amaze Me (I Just Want You Album Version)",
+      "artist": "Vicki Yohe",
+      "has_synced": true,
+      "path": "select/16_You_Amaze_Me_(I_Just_Want_You_Album_Version)_Vicki_Yohe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Amaze Me",
+      "artist": "Christa Deana",
+      "has_synced": true,
+      "path": "select/17_You_Amaze_Me_Christa_Deana.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Amaze Me",
+      "artist": "Union J",
+      "has_synced": true,
+      "path": "select/18_Amaze_Me_Union_J.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "You Still Amaze Me",
+      "artist": "Elijah N",
+      "has_synced": true,
+      "path": "select/19_You_Still_Amaze_Me_Elijah_N.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AMAZE ME",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_AMAZE_ME_INI.txt"
+    }
+  ]
+}
